@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="128" height="128" fill="none">
+  <title>Cat Icon</title>
+  <g stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ears -->
+    <path d="M18 22 L12 10 L24 16" />
+    <path d="M46 22 L52 10 L40 16" />
+
+    <!-- head -->
+    <path d="M16 24
+             Q16 18 22 18
+             H42
+             Q48 18 48 24
+             V36
+             Q48 50 32 50
+             Q16 50 16 36
+             Z" />
+
+    <!-- eyes -->
+    <circle cx="24" cy="31" r="1.8" fill="currentColor" stroke="none" />
+    <circle cx="40" cy="31" r="1.8" fill="currentColor" stroke="none" />
+
+    <!-- nose -->
+    <path d="M32 34 L29.5 37 H34.5 Z" fill="currentColor" stroke="none" />
+
+    <!-- mouth -->
+    <path d="M32 37 V40" />
+    <path d="M32 40 C29.5 42 27.5 42 25.5 41" />
+    <path d="M32 40 C34.5 42 36.5 42 38.5 41" />
+
+    <!-- whiskers -->
+    <path d="M20 35 H12" />
+    <path d="M20 39 H13" />
+    <path d="M44 35 H52" />
+    <path d="M44 39 H51" />
+  </g>
+</svg>
